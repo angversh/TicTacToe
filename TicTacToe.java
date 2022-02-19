@@ -44,7 +44,7 @@ public class TicTacToe {
             while (true) {
                 System.out.println("WHERE DO YOU MOVE");
 
-                // check the user can move where they want to and if so move them there
+                // check the user can move where they want to & if so move them there
                 while (true) {
                     int input;
                     try {
